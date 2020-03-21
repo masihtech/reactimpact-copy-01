@@ -17,7 +17,7 @@ sidebar:
 sections:
 - type: intro
   template: intro
-  title: reACTimpACT
+  title: React Impact Canada
   subtitle: 'We are offering cloud modern solutions for voice assistants, mobile applications
     and blazing fast websites. '
   section_id: intro
