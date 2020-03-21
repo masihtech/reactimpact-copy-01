@@ -30,7 +30,7 @@ sections:
   component: Intro
 - type: spotlights
   template: spotlights
-  title: Spotlights Section
+  title: 'Voice assistant '
   section_id: one
   background_style: style2
   component: Spotlights
