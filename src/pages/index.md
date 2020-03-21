@@ -36,10 +36,11 @@ sections:
   component: Spotlights
 - type: features
   template: features
-  title: What we do
-  subtitle: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-    mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit
-    bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.
+  title: Voice assistant compaign
+  subtitle: |-
+    <!-- Wishpond embed code -->
+
+    <script type="text/javascript" src="//cdn.wishpond.net/connect.js?merchantId=1503531&writeKey=6d4d2766e318" async></script><div class="wishpond-campaign" data-wishpond-id="2511669" data-wishpond-href="[https://embedded.wishpondpages.com/lp/2511669/](https://embedded.wishpondpages.com/lp/2511669/ "https://embedded.wishpondpages.com/lp/2511669/")"></div>
   section_id: two
   background_style: style3
   features_list:
