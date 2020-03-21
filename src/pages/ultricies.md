@@ -1,19 +1,20 @@
 ---
-title: Ultricies aliquam
-content_img_path: images/pic04.jpg
+title: Voice assistant
+content_img_path: "/images/undraw_mobile_interface_wakp.svg"
 home_spotlights:
   enabled: true
   weight: 3
-  excerpt: >-
-    Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-    mauris, eu ultricies erat malesuada quis. Aliquam dapibus.
+  excerpt: 'have a custom voice assistant for your business. Let your clients talk
+    to your business around the clock. '
   home_img:
     path: images/pic03.jpg
     data_position: 25% 25%
-    url: '#'
+    url: "#"
 template: page
+
 ---
+Voice assistants are the future ultimate tool for optimizing your office operation. 
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
+<!-- Wishpond embed code -->
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+<script type="text/javascript" src="//cdn.wishpond.net/connect.js?merchantId=1503531&writeKey=6d4d2766e318" async></script><div class="wishpond-campaign" data-wishpond-id="2511669" data-wishpond-href="[https://embedded.wishpondpages.com/lp/2511669/](https://embedded.wishpondpages.com/lp/2511669/ "https://embedded.wishpondpages.com/lp/2511669/")"></div>
