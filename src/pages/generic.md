@@ -1,5 +1,5 @@
 ---
-title: A Generic Page
+title: Modern websites
 content_img_path: images/pic04.jpg
 menus:
   main:
