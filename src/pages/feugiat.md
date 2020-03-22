@@ -7,7 +7,7 @@ home_spotlights:
   excerpt: The new era of websites is here. The time finally has come to change the
     way websites are built.
   home_img:
-    path: images/pic02.jpg
+    path: "/images/pic04-1.jpg"
     data_position: top center
     url: "#"
 template: page
