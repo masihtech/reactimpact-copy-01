@@ -7,7 +7,7 @@ home_spotlights:
   excerpt: 'have a custom voice assistant for your business. Let your clients talk
     to your business around the clock. '
   home_img:
-    path: images/pic03.jpg
+    path: "/images/undraw_tutorial_video_7dns.png"
     data_position: 25% 25%
     url: "#"
 template: page
