@@ -13,8 +13,4 @@ home_spotlights:
 template: page
 
 ---
-Voice assistants are the future ultimate tool for optimizing your office operation. 
-
-<!-- Wishpond embed code -->
-
-<script type="text/javascript" src="//cdn.wishpond.net/connect.js?merchantId=1503531&writeKey=6d4d2766e318" async></script><div class="wishpond-campaign" data-wishpond-id="2511669" data-wishpond-href="[https://embedded.wishpondpages.com/lp/2511669/](https://embedded.wishpondpages.com/lp/2511669/ "https://embedded.wishpondpages.com/lp/2511669/")"></div>
+Voice assistants are the future ultimate tool for optimizing your office operation.
