@@ -59,6 +59,5 @@ fields:
     required: true
 pages:
 - src/pages/feugiat.md
-- src/pages/generic.md
 - src/pages/sed.md
 - src/pages/ultricies.md
