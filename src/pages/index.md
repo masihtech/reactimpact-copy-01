@@ -38,62 +38,21 @@ sections:
   template: features
   title: Voice assistant compaign
   subtitle: |-
-    <!-- Wishpond embed code -->
-
-    <script type="text/javascript" src="//cdn.wishpond.net/connect.js?merchantId=1503531&writeKey=6d4d2766e318" async></script><div class="wishpond-campaign" data-wishpond-id="2511669" data-wishpond-href="[https://embedded.wishpondpages.com/lp/2511669/](https://embedded.wishpondpages.com/lp/2511669/ "https://embedded.wishpondpages.com/lp/2511669/")"></div>
-  section_id: two
-  background_style: style3
-  features_list:
-  - title: Lorem ipsum amet
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-code
-  - title: Aliquam sed nullam
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-lock
-  - title: Sed erat ullam corper
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-cog
-  - title: Veroeros quis lorem
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-desktop
-  - title: Urna quis bibendum
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-chain
-  - title: Aliquam urna dapibus
-    text: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam
-      turpis mauris, sed ultricies erat dapibus.
-    icon: fa-diamond
-  actions:
-  - label: Learn more
-    url: "/generic"
-    is_scrolly: false
-    is_primary: false
-  component: Features
-- type: contact
-  template: contact
-  title: Get in touch
-  text: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris,
-    eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum,
-    urna est aliquam sem, sit amet imperdiet est velit quis lorem.
+   
   section_id: three
   background_style: style1
   contact_list:
   - title: Address
     text: |-
-      12345 Somewhere Road #654
-      Nashville, TN 00000-0000
-      USA
-    url: ''
+      2 Bluesky , Richmondhill 
+      Ontario, 
+      Canada
+    url: www.reactimpact.ca
   - title: Email
-    text: user@Hyperspace.tld
+    text: info@reactimpcat.ca
     url: "#"
   - title: Phone
-    text: "(000) 000-0000"
+    text: "(647) 323-3180"
     url: ''
   social:
     title: Social
