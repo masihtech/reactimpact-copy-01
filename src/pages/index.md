@@ -18,8 +18,7 @@ sections:
 - type: intro
   template: intro
   title: React Impact Canada
-  subtitle: 'We are offering cloud modern solutions for voice assistants, mobile applications
-    and blazing fast websites. '
+  subtitle: 'We are pionner in e-commerce services.'
   section_id: intro
   background_style: style2
   actions:
