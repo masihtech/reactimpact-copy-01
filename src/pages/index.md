@@ -18,7 +18,7 @@ sections:
 - type: intro
   template: intro
   title: React Impact Canada
-  subtitle: 'We are offering eCommerce solutions and cosulting.
+  subtitle: 'We are offering eCommerce solutions and cosulting."
   section_id: intro
   background_style: style2
   actions:
