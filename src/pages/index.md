@@ -17,8 +17,8 @@ sidebar:
 sections:
 - type: intro
   template: intro
-  title: React Impact Canada
-  subtitle: 'We are offering eCommerce solutions and cosulting.'
+  title: React Impact 
+  subtitle: 'eCommerce , trading , suppling.'
   section_id: intro
   background_style: style2
   actions:
