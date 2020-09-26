@@ -1,5 +1,5 @@
 ---
-title: 'Mobile applications '
+title: 'wholesale and dropshipping'
 content_img_path: "/images/undraw_progressive_app_m9ms.png"
 home_spotlights:
   enabled: true

@@ -1,5 +1,5 @@
 ---
-title: Voice assistant
+title: Sourcing
 content_img_path: "/images/undraw_mobile_interface_wakp.svg"
 home_spotlights:
   enabled: true
