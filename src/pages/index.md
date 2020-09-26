@@ -18,7 +18,7 @@ sections:
 - type: intro
   template: intro
   title: React Impact 
-  subtitle: 'eCommerce , trading , suppling.'
+  subtitle: 'eCommerce , trading , supplying.'
   section_id: intro
   background_style: style2
   actions:
